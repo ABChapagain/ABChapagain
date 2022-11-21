@@ -7,7 +7,6 @@ Nepal. All the coding projects are built from the ground up, from planning and
 designing all the way to solving real life problems with code. You can find my
 projects on [My Webpage](achyutchapagain.com.np).
 
-
 **`👨‍💻 About Me`**
 
 - 🌱 I’m currently learning **Nextjs**
@@ -317,9 +316,7 @@ projects on [My Webpage](achyutchapagain.com.np).
 href="https://www.adobe.com/in/products/illustrator.html"
 target="\_blank"
 rel="noreferrer"
-
 >
-
     <img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
       alt="illustrator"

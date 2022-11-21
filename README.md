@@ -312,11 +312,7 @@ projects on [My Webpage](achyutchapagain.com.np).
     />
   </a>
 
-<a
-href="https://www.adobe.com/in/products/illustrator.html"
-target="\_blank"
-rel="noreferrer"
->
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="\_blank" rel="noreferrer" >
     <img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
       alt="illustrator"
@@ -324,7 +320,6 @@ rel="noreferrer"
       width="40"
       height="40"
     />
-
   </a>
 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">

@@ -1,6 +1,8 @@
 [![MasterHead](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=2000&t=st=1669022436~exp=1669023036~hmac=f8da4875883e764619f913d489f82fc5044acfb53c24df5e910b374a58b64a43)](https://www.achyutchapagain.com.np)
 
-# 🏄‍♂️ ABChapagain [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=22B28E&vCenter=true&lines=Full+Stack+Web+Developer&height=20)](#)
+# 🏄‍♂️ ABChapagain
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=22B28E&vCenter=true&lines=Full+Stack+Web+Developer&height=20)](#)
 
 I'm a self-taught tech enthuastic young guy & passionate web developer from
 Nepal. All the coding projects are built from the ground up, from planning and

@@ -2,7 +2,7 @@
 
 # 🏄‍♂️ ABChapagain
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=22B28E&vCenter=true&lines=Full+Stack+Web+Developer&height=20)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=22B28E&vCenter=true&lines=Full+Stack+Web+Developer&height=30)](#)
 
 I'm a self-taught tech enthuastic young guy & passionate web developer from
 Nepal. All the coding projects are built from the ground up, from planning and

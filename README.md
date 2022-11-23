@@ -12,7 +12,7 @@ projects on [My Webpage](achyutchapagain.com.np).
 **`👨‍💻 About Me`**
 
 - 🌱 I’m currently learning **Nextjs**
-- 👨‍💻 All of my projects are available at [achyutchapagain.com.np](achyutchapagain.com.np)
+- 👨‍💻 All of my projects are available at [achyutchapagain.com.np](https://www.achyutchapagain.com.np)
 - 📝 I don't write articles but have a demo blog website [chapagainachyut.com.np](chapagainachyut.com.np)
 - ❤️ I love writing JavaScript
 

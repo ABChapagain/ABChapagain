@@ -12,8 +12,8 @@ projects on [My Webpage](achyutchapagain.com.np).
 **`👨‍💻 About Me`**
 
 - 🌱 I’m currently learning **Nextjs**
-- 👨‍💻 All of my projects are available at <a href="https://www.achyutchapagain.com.np" target="_blank">achyutchapagain.com.np</a>
-- 📝 I don't write articles but have a demo blog website [chapagainachyut.com.np](chapagainachyut.com.np)
+- 👨‍💻 All of my projects are available at <a href="https://www.achyutchapagain.com.np" target="_blank" rel="noreferrer">achyutchapagain.com.np</a>
+- 📝 I don't write articles but have a demo blog website <a href="https://www.chapagainachyut.com.np" target="_blank" rel="noreferrer">chapagainachyut.com.np</a>
 - ❤️ I love writing JavaScript
 
 **`🌐 Connect with me`**

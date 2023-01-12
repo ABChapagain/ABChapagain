@@ -352,7 +352,7 @@ projects on [My Webpage](achyutchapagain.com.np).
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://profilinator.rishav.dev/skills-assets/nextjs.png"
       alt="nextjs"
       title="Nexjs"
       width="40"

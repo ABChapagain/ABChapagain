@@ -274,7 +274,7 @@ projects on [My Webpage](achyutchapagain.com.np).
   </a>
   <a href="https://vercel.com" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.cdnlogo.com/logos/v/78/vercel.svg"
+      src="https://profilinator.rishav.dev/skills-assets/vercel.png"
       alt="vercel"
       title="Vercel"
       width="40"

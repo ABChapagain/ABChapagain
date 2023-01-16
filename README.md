@@ -419,3 +419,11 @@ projects on [My Webpage](achyutchapagain.com.np).
 **`🎈 Languages I prefer`**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=abchapagain&theme=dark&show_icons=true&border_radius=5&hide_border=true&layout=compact&width=50)
+
+**`🐍 Snake eating my contribution graph`**
+
+<p align="center">
+  <img src="https://github.com/ABChapagain/ABChapagain/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's get connected!</b> 😊</em>

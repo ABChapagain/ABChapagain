@@ -13,7 +13,7 @@ projects on [My Webpage](achyutchapagain.com.np).
 
 - 🌱 I’m currently learning **Nextjs**
 - 👨‍💻 All of my projects are available at <a href="https://www.achyutchapagain.com.np" target="_blank" rel="noreferrer">achyutchapagain.com.np</a>
-- 📝 I don't write articles but have a demo blog website <a href="https://www.chapagainachyut.com.np" target="_blank" rel="noreferrer">chapagainachyut.com.np</a>
+- 🏢 I use this -> <a href="https://www.chapagainachyut.com.np" target="_blank" rel="noreferrer">chapagainachyut.com.np</a> domain for testing. Demo of project, I am currently working on may be there.
 - ❤️ I love writing JavaScript
 
 **`🌐 Connect with me`**

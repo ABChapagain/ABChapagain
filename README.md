@@ -2,7 +2,7 @@
 
 # 🏄‍♂️ ABChapagain
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=22B28E&vCenter=true&lines=Full+Stack+Web+Developer&height=30)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=54c5f8&vCenter=true&lines=Full+Stack+Web+Developer&height=30)](#)
 
 I'm a self-taught tech enthuastic young guy & passionate web developer from
 Nepal. All the coding projects are built from the ground up, from planning and
@@ -11,7 +11,7 @@ projects on [My Webpage](achyutchapagain.com.np).
 
 **`👨‍💻 About Me`**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Flutter**
 - 👨‍💻 All of my projects are available at <a href="https://www.achyutchapagain.com.np" target="_blank" rel="noreferrer">achyutchapagain.com.np</a>
 - 🏢 I use this ➡️ <a href="https://www.chapagainachyut.com.np" target="_blank" rel="noreferrer">chapagainachyut.com.np</a> ⬅️ domain for testing. Demo of project, I am currently working on may be there.
 - ❤️ I love writing JavaScript

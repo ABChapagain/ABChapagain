@@ -422,6 +422,6 @@ projects on [My Webpage](https://www.achyutchapagain.com.np).
 
 **`🐍 Oh no!!😭 Snake is eating my contribution graph`**
 
-![snake gif](https://github.com/ABChapagain/ABChapagain/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ABChapagain/ABChapagain/blob/output/snake.svg)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's get connected! Do Follow.</b> 😊</em>

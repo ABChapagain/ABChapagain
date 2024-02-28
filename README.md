@@ -16,7 +16,7 @@ projects on [My Webpage](https://www.achyutchapagain.com.np).
 - 🏢 I use this ➡️ <a href="https://www.chapagainachyut.com.np" target="_blank" rel="noreferrer">chapagainachyut.com.np</a> ⬅️ domain for testing. Demo of project, I am currently working on may be there.
 - ❤️ I love writing JavaScript
 
-**`🌐 Connect with me`**
+**`🌐 Connect With  Me`**
 
 <p align="left">
   <a href="https://facebook.com/5abchapagain" target="blank"
